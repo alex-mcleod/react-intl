@@ -1,5 +1,3 @@
 coverage/
-dist/
-locale-data/
 node_modules/
 src/en.js
